@@ -1,0 +1,27 @@
+{
+
+  
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server server.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marttinwav/JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marttinwav/JavaScript/issues"
+  },
+  "homepage": "https://github.com/marttinwav/JavaScript#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
