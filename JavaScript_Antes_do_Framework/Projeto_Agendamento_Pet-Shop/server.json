@@ -1,0 +1,28 @@
+{
+  "schedules": [
+    {
+      "id": 1744323606024,
+      "name": "Ana",
+      "pet": "Bigt",
+      "phone": "(86) 9 9237-9010",
+      "description": "Tosar",
+      "when": "2025-04-11T18:00:00.000Z"
+    },
+    {
+      "id": 1744323704489,
+      "name": "Cibely",
+      "pet": "Nanan",
+      "phone": "(86) 9 9487-9874",
+      "description": "cortar unhas",
+      "when": "2025-04-11T20:00:00.000Z"
+    },
+    {
+      "id": 1744323789774,
+      "name": "Valeria",
+      "pet": "Pop",
+      "phone": "(86) 9 9487-9019",
+      "description": "pelos",
+      "when": "2025-04-11T22:00:00.000Z"
+    }
+  ]
+}
