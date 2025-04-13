@@ -1,7 +1,7 @@
 {
   "name": "agendamento-pet-shop-rocketseat",
   "description": "Projeto de agendamento para serviços Pet Shop",
-  "author": "John Frank",
+  "author": "MarttinWav",
   "scripts": {
     "build": "webpack",
     "dev": "webpack server",
