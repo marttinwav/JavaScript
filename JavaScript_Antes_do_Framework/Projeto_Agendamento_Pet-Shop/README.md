@@ -39,7 +39,7 @@ Clone este repositório:​
 bash
 Copiar
 Editar
-git clone https://github.com/John-Snooow/Agendamento-Pet-Shop.git
+git clone https://github.com/marttinwav/Agendamento-Pet-Shop.git
 Navegue até o diretório do projeto:​
 
 bash
